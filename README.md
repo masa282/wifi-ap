@@ -7,4 +7,4 @@ ifconfig wlan0 up
 #an example of execution  
 ./a.out wlan0 6  
 
-![ap](https://user-images.githubusercontent.com/70357184/141653708-d7fb5545-c4c4-4e90-ae27-7b98c6fb69e5.png)
+![ap](https://user-images.githubusercontent.com/70357184/141653733-e47ab675-d63f-41b7-bcd9-7c2f642f4d1a.png)
